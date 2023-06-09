@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=poppinsa:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 * {
     margin: 0;
@@ -45,7 +45,7 @@ section{
 }
 
 .header img {
-    width: 10vh;
+    width: 7vh;
     transition: transform 0.3s ease-in-out;
   }
   
@@ -55,11 +55,6 @@ section{
 
 .header.sticky{
     border-bottom: .1rem solid rgba(0, 0, 0, .2)
-}
-
-.logo{
-    font-size: 2.5rem;
-    color: var(--text-color);
 }
 
 .navbar a{
